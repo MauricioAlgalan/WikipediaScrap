@@ -35,7 +35,7 @@ The script puts the content of the article in a sigle file named out.html. Is ht
 
 python wikipedia.py https://en.wikipedia.org/wiki/Infinitesimal
 
-pandoc -t latex --latex-engine=xelatex -f html -o Descartes.pdf out.html
+pandoc -t latex --latex-engine=xelatex -f html -o Infinitesimals.pdf out.html
 
 ## What I cand do with this?
 
